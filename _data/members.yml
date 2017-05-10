@@ -1,6 +1,22 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Pablo Hernandez
+  affiliation: IFS, Biophysics
+  github: phcerdan
   interests:
-    - Programming
-    - Open Science
+   # - C++
+   # - Image Analysis
+   # - Open Science
+
+- name: David Winter
+  affiliation: IFS, Bioinformatics
+  github: dwinter
+  interests:
+
+- name: Jiri Moravec
+  affiliation: IFS, Bioinformatics
+  github: J-Moravec
+  interests:
+
+- name: Patrick Rynhart
+  affiliation: ITS
+  github: prynhart
+  interests:

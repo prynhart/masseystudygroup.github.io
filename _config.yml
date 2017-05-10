@@ -32,6 +32,9 @@ calendar_on: False
 calendar_embed_url: "https://www.google.com/calendar/embed?src=USER@gmail.com"
 calendar_ical_url: "https://www.google.com/calendar/ical/USER@gmail.com/public/basic.ics"
 
+google_group_on: True
+google_group_url: "https://groups.google.com/forum/#!aboutgroup/massey-study-group"
+
 
 #========================================
 # No touching anything below this line :)
