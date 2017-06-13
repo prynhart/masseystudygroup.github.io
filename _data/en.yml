@@ -27,6 +27,8 @@ notification: Want to be notified of our upcoming events?
 watching: 'Head over to <a href="%GITHUB_REPO_URL%">GitHub</a> and watch our repository, like this:'
 watchingCaption: 'Look in the top right-hand corner of <a href="%GITHUB_REPO_URL%">our repo</a>, and click "Watching." <br>You can undo this at any time in the same place.'
 
+googleGroupHeading: 'Also join us in our <a href="%GOOGLE_GROUP_URL%" target="_blank">Google Group</a>!'
+
 calendar: Subscribe to our events calendar!
 calendarSubheading: 'We also invite you to follow <a href="%CALENDAR_EMBED_URL%" target="_blank">our calendar</a>, where events will be posted.'
 googleCalendar: 'If you use Google calendar, you can add our calendar by pressing the "Google Calendar" button at the bottom-right of <a href="%CALENDAR_EMBED_URL%" target="_blank">this page</a>.'
